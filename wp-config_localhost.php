@@ -24,10 +24,10 @@ define( 'DB_NAME', 'themedev' );
 
 /** MySQL database username */
 /** define( 'DB_USER', 'root' );**/
-define( 'DB_USER', 'Morshed' );
+define( 'DB_USER', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'Mmsdmsd1234%' );
+define( 'DB_PASSWORD', '' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
